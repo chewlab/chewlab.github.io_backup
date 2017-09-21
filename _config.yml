@@ -2,7 +2,7 @@
 title: The Chew Lab @ GIS
 email: chewwl@gis.a-star.edu.sg
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "/creative-theme-jekyll" # the subpath of your site, e.g. /blog/
+baseurl: "/creative-theme-jekyll/" # the subpath of your site, e.g. /blog/
 url: "https://chewlab.github.io" # the base hostname & protocol for your site
 
 twitter_username: chewweileong
